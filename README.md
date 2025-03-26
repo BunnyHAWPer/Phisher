@@ -1,41 +1,28 @@
-<div align="center">
-  <img src="https://i.imgur.com/SYY9Z7H.png" alt="Expressify Logo" width="300">
-  <h1>Expressify</h1>
-  <p>
-    <strong>A lightning-fast Python web framework inspired by Express.js</strong>
-  </p>
-  <p>
-    <a href="https://github.com/bunnyhawper/expressify/blob/main/LICENSE">
-      <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
-    </a>
-    <a href="https://www.python.org/downloads/">
-      <img src="https://img.shields.io/badge/Python-3.7%2B-blue" alt="Python">
-    </a>
-    <a href="https://pypi.org/project/expressify/">
-      <img src="https://img.shields.io/badge/PyPI-1.0.0-blue" alt="PyPI Version">
-    </a>
-    <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained">
-    <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg" alt="Made with Python">
-  </p>
-</div>
+# Expressify
 
-<p align="center">
-  <b>Expressify</b> brings the elegance of Express.js to Python, offering a familiar API with Pythonic features.
-  <br>Build web applications and APIs with minimal code and maximum productivity.
-</p>
+**A lightning-fast Python web framework inspired by Express.js**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/bunnyhawper/expressify/blob/main/LICENSE)
+[![Python: 3.7+](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/downloads/)
+[![PyPI Version](https://img.shields.io/badge/PyPI-1.0.0-blue)](https://pypi.org/project/expressify/)
+[![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/bunnyhawper/expressify)
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
+**Expressify** brings the elegance of Express.js to Python, offering a familiar API with Pythonic features.
+Build web applications and APIs with minimal code and maximum productivity.
+
+> **Note:** Expressify is still in active development. This is an open-source project, and contributions are highly encouraged! Feel free to submit pull requests, report issues, or suggest new features.
 
 ---
 
-<div align="center">
-  <a href="#-why-expressify">Why Expressify</a> •
-  <a href="#-features">Features</a> •
-  <a href="#-installation">Installation</a> •
-  <a href="#-quick-start">Quick Start</a> •
-  <a href="#-examples">Examples</a> •
-  <a href="#-documentation">Documentation</a> •
-  <a href="#-contributing">Contributing</a> •
-  <a href="#-author">Author</a>
-</div>
+## Quick Links
+- [Why Expressify?](#-why-expressify)
+- [Features](#-features)
+- [Installation](#-installation)
+- [Quick Start](#-quick-start)
+- [Examples](#-examples)
+- [Contributing](#-contributing)
+- [Author](#-author)
 
 ---
 
@@ -193,7 +180,7 @@ Expressify comes with comprehensive examples to help you get started:
 - **RESTful API** - Complete API implementation with CRUD operations
 - **Express.js features** - Content negotiation, cookies, sessions
 
-Check out the [examples directory](./examples) for complete code examples.
+Check out the examples directory for complete code examples.
 
 ## 📖 Development Tools
 
@@ -207,26 +194,24 @@ python dev.py app.py
 
 This will automatically restart the server when your code changes, making development faster and more efficient.
 
-## 📚 Documentation
-
-For detailed documentation on all features, check out the [documentation site](./docs/index.html) or browse the documentation files:
-
-- **[Request Object](./docs/request.md)** - All request properties and methods
-- **[Response Object](./docs/response.md)** - All response properties and methods
-- **[Routing](./docs/routing.md)** - Detailed routing documentation
-- **[Middleware](./docs/middleware.md)** - Middleware documentation
-- **[Templates](./docs/templates.md)** - Template rendering guide
-- **[Deployment](./docs/deployment.md)** - Deployment guide
-
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Expressify is an open-source project in active development and welcomes contributions from the community! Here's how you can help:
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
+
+Feel free to contribute by:
+- Adding new features
+- Fixing bugs
+- Improving documentation
+- Writing tests
+- Suggesting enhancements
+
+No contribution is too small, and all are appreciated!
 
 ## 📄 License
 
